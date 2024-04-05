@@ -5,7 +5,7 @@
   
 ## 4주차
 - 02_tokenization.py
-- 03_stopword.py
+- 03_stopword_removal.py
 - 04_stemming.py
 - 05_lemmatization.py
 
