@@ -9,8 +9,6 @@
 - 04_stemming.py
 - 05_lemmatization.py
 
-- 06_
-
 ## 과제
 검색 시스템 구현: 커피 stack exchange data 를 사용하여 다음 검색 시스템을 구현 (6/7 금)
 - [구현 1. Inverted Index 및 term 출현 빈도 기반 ranking 구현, 40 점]
